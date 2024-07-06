@@ -63,7 +63,7 @@
 
 28. ax[1].set_title("gambar edges")
 
-# ________________________________________________________________________
+# ____________________________________________________________
 # PRAKTIKUM 4
 ### Line 1,2,3,4,5 untuk mengimpor pustaka yang diperlukan: OpenCV (cv2) untuk pemrosesan gambar, Matplotlib (plt) untuk visualisasi, Numpy (np) untuk komputasi numerik, dan skimage untuk data dan fitur citra.
 1. import cv2
